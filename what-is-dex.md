@@ -1,4 +1,4 @@
-articles/what-is-dex.md
+Articles/what-is-dex.md
 
 # What is a DEX?
 
