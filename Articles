@@ -1,0 +1,24 @@
+articles/what-is-defi.md
+
+# What is DeFi?
+
+DeFi (Decentralized Finance) is a financial system built on blockchain technology that allows users to access financial services without intermediaries such as banks or financial institutions.
+
+In traditional finance, banks act as middlemen to manage transactions, savings, loans, and investments. DeFi removes these intermediaries by using smart contracts, which are automated programs running on the blockchain.
+
+## Key Characteristics of DeFi
+- Permissionless: Anyone can access DeFi applications without approval.
+- Transparent: All transactions are recorded on the blockchain.
+- Non-custodial: Users have full control over their assets.
+
+## Common DeFi Applications
+- Decentralized Exchanges (DEX)
+- Lending and Borrowing platforms
+- Liquidity Pools
+- Yield Farming
+
+## How DeFi Works
+DeFi applications operate through smart contracts. These contracts automatically execute transactions when predefined conditions are met, reducing the need for trust in third parties.
+
+## Conclusion
+DeFi represents a new approach to financial services by offering transparency, accessibility, and automation through blockchain technology.
